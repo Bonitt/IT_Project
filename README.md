@@ -8,3 +8,6 @@ by hovering over the missing dependencies that have a red underline and press in
 
 Do not run the program more than 2 - 3 times in a row as the website will block access to getting
 the information required.
+
+If the website does end up blocking you, waiting a couple of minutes (roughly 15) will allow you
+to go again but for the same required amount of times mentioned above.
